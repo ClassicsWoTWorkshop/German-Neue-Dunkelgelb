@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.56646 -0.000242181 -3.06357</min>
+    <max>1.56558 1.09037 2.96669</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/german/G87_VK3002DB_V1/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>

@@ -1,0 +1,10 @@
+<chassis.model>
+  <nodefullVisual>vehicles/german/G98_Waffentrager_E100/normal/lod0/Chassis</nodefullVisual>
+  <tank>	true	</tank>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-2.03703 0.00184318 -3.86119</min>
+    <max>2.03703 1.36738 3.96677</max>
+  </visibilityBox>
+</chassis.model>
