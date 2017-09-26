@@ -10,4 +10,4 @@ IMPORTANT NOTE: Only the tanks that are currently in HD have the color swap. The
 
 Enjoy!
 
-- FastestClassic
+Made by FastestClassic.
